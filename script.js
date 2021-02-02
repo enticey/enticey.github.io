@@ -200,7 +200,7 @@ $(document).ready(function() {
 			},
 			"+=1"
 		)
-		.to(glitchImg2, 2.00, {
+		.to(glitchImg2, 3.00, {
 			scale: 0.50
 		})
 		.to(glitchImg2, 0.0, {

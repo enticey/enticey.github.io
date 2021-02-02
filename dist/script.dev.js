@@ -162,7 +162,7 @@ $(document).ready(function () {
     }
   }, "-=0.5").set(canvas, {
     autoAlpha: 0
-  }, "+=1").to(glitchImg2, 2.00, {
+  }, "+=1").to(glitchImg2, 3.00, {
     scale: 0.50
   }).to(glitchImg2, 0.0, {
     autoAlpha: 0
