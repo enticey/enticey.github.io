@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: UnrealNinjas
+name: Unreal Ninjas
 
 # Name of the author
-author: 0001
+author: LdV
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: A random cave of madness.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/header-logo.png
 
 #
 # Flags below are optional
@@ -75,7 +75,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed, was :expanded
 
 # Use the following plug-ins
 plugins:
@@ -86,7 +86,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 5
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
