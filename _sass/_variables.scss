@@ -1,16 +1,13 @@
-$blue: #4183C4;
+// Colors
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
+$darkGray: #92979B;
+$darkerGray: $darkGray;
+$gray: #D5D7D8;
 $lightGray: #eee;
 $white: #fff;
 $borderColor: #36393a;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
 $roboto: 'Roboto', sans-serif;
 
 // Mobile breakpoints
