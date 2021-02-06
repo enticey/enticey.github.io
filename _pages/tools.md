@@ -4,4 +4,5 @@ title: Tools
 permalink: /tools/
 ---
 
-Gotta edit this later.
+- [IP Geolocation Tool](https://unrealninjas.ga/geo/)
+- Perhaps more to come...

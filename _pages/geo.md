@@ -26,6 +26,6 @@ permalink: /geo/
 
 <div class="language-plaintext highlighter-rouge">
     <div class="highlight">
-        <pre class="highlight"><code><p id="ipgeo"></p><br/>***Big thanks to ApstractAPI for fetching this data, we store none of it.***</code></pre>
+        <pre class="highlight"><code><p id="ipgeo"></p><br/><i>Big thanks to AbstractAPI for fetching this data for us, we store none of it.</i></code></pre>
     </div>
 </div>
