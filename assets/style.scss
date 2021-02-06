@@ -62,7 +62,7 @@ h2 {
 	    vertical-align: middle;
 	    width: 46px;
 	    height: 1px;
-	    background: rgb(192, 211, 218);
+	    background: #d5d7d8;
 	    margin: 0px 30px;
 	}
 }
@@ -85,26 +85,26 @@ table {
 }
 
 table tr {
-	border-top: 1px solid #cccccc;
-	background-color: white;
+	border-top: 1px solid #4a4d4f;
+	background-color: $borderColor;
 	margin: 0;
 	padding: 0;
 }
 
 table tr:nth-child(2n) {
-	background-color: #f8f8f8;
+	background-color: $borderColor;
 }
 
 table tr th {
 	font-weight: bold;
-	border: 1px solid #cccccc;
+	border: 1px solid #4a4d4f;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
 }
 
 table tr td {
-	border: 1px solid #cccccc;
+	border: 1px solid #4a4d4f;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
@@ -279,6 +279,10 @@ p > img {
   }
 }
 
+.site-avatar:hover {
+  opacity: 0.3;
+}
+
 .site-info {
   float: left;
 
@@ -318,6 +322,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $roboto;
   font-size: 18px;
+  text-transform: uppercase;
 
   @include mobile {
     float: none;
@@ -360,17 +365,14 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: $gray;
     font-size: 22px;
     font-style: italic;
-    background-color: #ede1ff;
+    background-color: #111;
   }
 
   .you-may-like{
     margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
