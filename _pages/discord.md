@@ -1,5 +1,5 @@
 ---
-layout: discord-redirect
+layout: page
 title: Discord Redirect
 permalink: /discord/
 discord_invite: invite
