@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://discord.gg/NqPdV8nZru">
-    <script type="text/javascript">
-        window.location.href = "https://discord.gg/NqPdV8nZru"
-    </script>
+    {% assign discord_invite = site.data.discord[invite] %}
+    <meta http-equiv="refresh" content="0; url={ discord_invite.domain }{ discord_invite.ingredient }">
     <title>Discord Redirection</title>
     {% seo title=false %}
     {% include meta.html %}
