@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/entice
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://unrealninjas.com
+  * I am entice (https://keybase.io/entice) on keybase.
+  * I have a public key with fingerprint 3F27 1968 C5FF 64DF 18B4  B160 EA90 C1AD C987 388C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201a0d95f271c57a486e2a611b0d8d9f15297bb9a112d4d4f6d5f7f1d2d01746900a",
+      "fingerprint": "3f271968c5ff64df18b4b160ea90c1adc987388c",
+      "host": "keybase.io",
+      "key_id": "ea90c1adc987388c",
+      "kid": "01014a53ae978b241442fdfafe6e139157d717a032d204eaa0777e8b7ae60ce753800a",
+      "uid": "312a55cc563f8b710883b6d960ec0b19",
+      "username": "entice"
+    },
+    "service": {
+      "hostname": "unrealninjas.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1615777791,
+  "expire_in": 157680000,
+  "prev": "abc6765d3e4eab816bb4a84623dbea21d2a7a5d72d0b8ba29f4c2a462530b41e",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ7UFVFHL4gBOJAPG/RSA0nedQAnj3vgxozjtqMAdZwMSzisuecPXC4
+cO/lPgBDJoQSmgJEphSMmB46psBkBDZDSGBwazQQIhUaEQNKqZGaEdKRsfaQ/tf+
+s7u/3/d9+327+23gGkOA18LBgY7va4R3vc4PtLgNuemj/5QTkk3ZSySXExa0OqFC
+BTldZoumEMkECSgSQFIRWZXigczykBE4REEOAIlUBEVUAUuJvCSJEABKYRRG5RRW
+5VWgUAoJeIYTSRISCYSqWfOQw+7QrC4sS+tqIifIrKpyjKICQWIkwJEIiqQMoCKL
+Ak8LgoyJ+TanzsDmJOhESZoN1/DGvGrvf/APfZOAgSwNkcgLEsUAhqFURYUq4hCg
+RcDyCg94SNKUQpEMgpDkeR4JEg8RR8qIZ2nhP9/uVTkaUJBlZZnlaBWDACkItMQp
+InYskxIQdaATOaywCOmurC5NRkRFAoFrJfoSX6ue40HfbXUgWGjVrAXQmSTbijDb
+7rC5bLKtEHfzXS67M1lnu/badXgpkswPhMySZlXwTWJGCXI4NZuVSAYYKbs0XRlw
+OBgeIkggUJldcyCzpiNYnsNxSFI/B5VgSSjJHM+xCo1wdkkAnCQxUGA4ilYkBCn8
+eJCHrMLjN5QECVKiysgUxH2WJiUGIEKPVmy1YW0a+4R5WNOp5Vmhy+3AwQcHsn0M
+XgGGR3y99S9mCFgb/PDjWZ4LNhzwnqXvHM+tnF/yf6r2bl1RTu+S5+ziRLfPPjio
+qhlV9qSy5JGF9242xNxqbs/ecvxwr3+4Gjt1roy6N/dY933ja896t43vAB6PvevU
+ZOQt+ky5KaX+zdatd6ToQCbxxWci0rI+upca0tcYHD43VFxjNl4xnrw6FNnTY9ge
+y8e9kdVDx0fdONYSe+idoIzS/p68uiMjnetXBPf9jvyctYe+3L3BUx23eT4/yusL
+7ULofOfi8+PZ9cun4sIqgz81vcDt+mMmZwyFtOwse/mb7pMxgLno97nf0oUz1Vtj
+FstXFoL++vXPj5nJtqqZpdARTzz96P4KvjKk6jSIzqgNUOJTcg3By40TN5uu+0Q2
+FSdeZNGTfp+Rdf61O37ZNTma2FWT9lJKe4//uscnvoqvNAXET12Ke2vTwbBGeb/9
+8LWKxaNj3NPujprAlobqt9fNmJp7rygO41iDJ6RzYM2HC3v68v7uv9b6iuVyAVU3
+sSKrP+35PezViNSvidIPLvdnGlunTqebGotuBLrvLn8yu/H94evGDe1zjTvPGTZu
+NvlOJ3UNRpyP3tJmiZe+cyUOB/1WkTP+QxAaOpI1dSz9RyZKHi4xBrbXpI6daJre
+Zl6/bR5kVTCo1PdoX2P6zxPTBy4l7H4ikzNZ5oL2hQ66A2+Dqe23h8+Gz7JX1YLX
+U22j9SeaN2WmnSn9F/i1vf0=
+=5ttN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/entice
+
+==================================================================
